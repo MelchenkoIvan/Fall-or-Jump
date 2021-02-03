@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 58e1863432876d24285ad22915242493
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Sound_on: {instanceID: 0}
+  - Sound_off: {instanceID: 0}
+  - shop: {instanceID: 0}
+  - mouseClick: {instanceID: 0}
+  - Mixer: {fileID: 24300002, guid: bd2ec25d670245d44b5f9d4d4cf473e6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
