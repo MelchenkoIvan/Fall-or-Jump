@@ -20,5 +20,5 @@ The fighting begins!
  
 ### Linki :
  
-Google Play [Fall or Jumo](https://play.google.com/store/apps/details?id=com.CyberGamingCompany.RunandJump). 
+Google Play [Fall or Jump](https://play.google.com/store/apps/details?id=com.CyberGamingCompany.RunandJump). 
  
